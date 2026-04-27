@@ -20,4 +20,4 @@
 Требования:
 1. Java **17+**.
 2. JAR **`mcp-bsl-context-*.jar`** с [Releases](https://github.com/alkoleft/mcp-bsl-platform-context/releases).
-3. В конфигурации MCP: `java` … `-jar` **абсолютный путь к jar** `--platform-path` **каталог установки платформы 1С**.
+3. В конфигурации MCP: `java` … `-jar` **абсолютный путь к jar** `--platform-path` **каталог установки платформы 1С**. Более подробный пример в самом репо по ссылке
